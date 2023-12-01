@@ -1,0 +1,9 @@
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\EmployeeTrainingRegistrationServices\bin\Debug\EmployeeTrainingRegistrationServices.dll
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\EmployeeTrainingRegistrationServices\bin\Debug\EmployeeTrainingRegistrationServices.pdb
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\EmployeeTrainingRegistrationServices\bin\Debug\DataAccessLayer.dll
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\EmployeeTrainingRegistrationServices\bin\Debug\DataAccessLayer.pdb
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\EmployeeTrainingRegistrationServices\obj\Debug\EmployeeTrainingRegistrationServices.csproj.AssemblyReference.cache
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\EmployeeTrainingRegistrationServices\obj\Debug\EmployeeTrainingRegistrationServices.csproj.CoreCompileInputs.cache
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\EmployeeTrainingRegistrationServices\obj\Debug\EmployeeTrainingRegistrationServices.csproj.CopyComplete
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\EmployeeTrainingRegistrationServices\obj\Debug\EmployeeTrainingRegistrationServices.dll
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\EmployeeTrainingRegistrationServices\obj\Debug\EmployeeTrainingRegistrationServices.pdb

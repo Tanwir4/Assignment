@@ -1,0 +1,6 @@
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\P12B227\OneDrive - Ceridian HCM Inc\Desktop\Assignment_2023\EmployeeTrainingRegistration\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
